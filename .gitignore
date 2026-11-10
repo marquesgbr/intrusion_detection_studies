@@ -220,3 +220,6 @@ __marimo__/
 # Dataset files
 data/
 adversarial_samples_ap7.2/
+
+# bin files
+*.bin
